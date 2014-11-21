@@ -1,0 +1,6 @@
+Summary of changes to fill.cpp
+
+Integrated into my main program - changed a few variables.
+
+Moved the part where pixels are read into an array into a separate function
+from main.
